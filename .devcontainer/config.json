@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "550e8400-e29b-41d4-a716-446655440000"
+            "id": "92d1b178-af4b-4e17-a9c2-77e5c618595f"
           }
         ],
         "decryption": "none"
@@ -15,7 +15,7 @@
         "network": "xhttp",
         "xhttpSettings": {
           "mode": "packet-up",
-          "path": "/"
+          "path": "/vssclean"
         }
       }
     }
