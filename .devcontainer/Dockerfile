@@ -29,7 +29,7 @@ RUN echo '#!/bin/bash' > /app/startup.sh && \
     echo 'echo "   • Config File: /etc/config.json"' >> /app/startup.sh && \
     echo 'echo ""' >> /app/startup.sh && \
     echo 'echo "🔗 VLESS Connection Details:"' >> /app/startup.sh && \
-    echo 'echo "   • Link: vless://550e8400-e29b-41d4-a716-446655440000@94.130.50.12:443"' >> /app/startup.sh && \
+    echo 'echo "   • Link: vless://92d1b178-af4b-4e17-a9c2-77e5c618595f@94.130.50.12:443"' >> /app/startup.sh && \
     echo 'echo "   • Encryption: none"' >> /app/startup.sh && \
     echo 'echo "   • Security: tls"' >> /app/startup.sh && \
     echo 'echo "   • Type: xhttp"' >> /app/startup.sh && \
